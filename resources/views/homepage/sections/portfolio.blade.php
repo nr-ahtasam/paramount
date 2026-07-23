@@ -1,1 +1,314 @@
-<section class="py-24 bg-muted"><div class="max-w-7xl mx-auto px-6"><div class="flex flex-col md:flex-row md:items-end justify-between mb-12"><div class="space-y-2"><span class="text-xs font-bold text-secondary uppercase tracking-widest">Our Portfolio</span><h2 class="text-3xl md:text-4xl font-heading font-extrabold text-primary">Engineered For Ultimate Performance</h2></div><a href="#" class="mt-4 md:mt-0 px-6 py-3 bg-primary text-primary-foreground rounded-full text-sm font-semibold hover:bg-primary/90 transition-all duration-300 flex items-center gap-2 self-start">View All Products Catalog<iconify-icon icon="lucide:arrow-right" class="text-lg"></iconify-icon></a></div><div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8"><div class="bg-card border border-border/80 rounded-2xl overflow-hidden shadow-sm hover:shadow-xl hover:-translate-y-2 transition-all duration-300 group"><div class="h-48 bg-muted relative overflow-hidden"><div class="absolute inset-0 bg-primary/10 mix-blend-multiply"></div><div class="absolute top-4 left-4 bg-primary text-primary-foreground text-[10px] font-bold uppercase tracking-wider px-3 py-1 rounded-full">Automotive</div><iconify-icon icon="lucide:car" class="absolute bottom-4 right-4 text-primary/20 text-6xl"></iconify-icon></div><div class="p-6 space-y-4"><h3 class="font-heading font-bold text-xl text-primary group-hover:text-secondary transition-colors">Automotive Lubricants</h3><p class="text-sm text-muted-foreground line-clamp-2">Advanced synthetic and semi-synthetic engine oils ensuring ultimate wear protection and fuel efficiency.</p><div class="pt-2 border-t border-border/60 flex items-center justify-between"><span class="text-xs text-muted-foreground font-semibold">Passenger & Commercial</span><span class="text-sm font-bold text-secondary flex items-center gap-1">View Details<iconify-icon icon="lucide:chevron-right" class="text-sm"></iconify-icon></span></div></div></div><div class="bg-card border border-border/80 rounded-2xl overflow-hidden shadow-sm hover:shadow-xl hover:-translate-y-2 transition-all duration-300 group"><div class="h-48 bg-muted relative overflow-hidden"><div class="absolute inset-0 bg-primary/10 mix-blend-multiply"></div><div class="absolute top-4 left-4 bg-primary text-primary-foreground text-[10px] font-bold uppercase tracking-wider px-3 py-1 rounded-full">Industrial</div><iconify-icon icon="lucide:activity" class="absolute bottom-4 right-4 text-primary/20 text-6xl"></iconify-icon></div><div class="p-6 space-y-4"><h3 class="font-heading font-bold text-xl text-primary group-hover:text-secondary transition-colors">Industrial Oils</h3><p class="text-sm text-muted-foreground line-clamp-2">Heavy-duty gear oils, turbine fluids, and compressor oils formulated to withstand extreme thermal pressures.</p><div class="pt-2 border-t border-border/60 flex items-center justify-between"><span class="text-xs text-muted-foreground font-semibold">Manufacturing & Mining</span><span class="text-sm font-bold text-secondary flex items-center gap-1">View Details<iconify-icon icon="lucide:chevron-right" class="text-sm"></iconify-icon></span></div></div></div><div class="bg-card border border-border/80 rounded-2xl overflow-hidden shadow-sm hover:shadow-xl hover:-translate-y-2 transition-all duration-300 group"><div class="h-48 bg-muted relative overflow-hidden"><div class="absolute inset-0 bg-primary/10 mix-blend-multiply"></div><div class="absolute top-4 left-4 bg-primary text-primary-foreground text-[10px] font-bold uppercase tracking-wider px-3 py-1 rounded-full">Marine</div><iconify-icon icon="lucide:anchor" class="absolute bottom-4 right-4 text-primary/20 text-6xl"></iconify-icon></div><div class="p-6 space-y-4"><h3 class="font-heading font-bold text-xl text-primary group-hover:text-secondary transition-colors">Marine Lubricants</h3><p class="text-sm text-muted-foreground line-clamp-2">High-alkalinity cylinder lubricants and system oils designed for large-bore marine diesel engines.</p><div class="pt-2 border-t border-border/60 flex items-center justify-between"><span class="text-xs text-muted-foreground font-semibold">Shipping & Cruise</span><span class="text-sm font-bold text-secondary flex items-center gap-1">View Details<iconify-icon icon="lucide:chevron-right" class="text-sm"></iconify-icon></span></div></div></div><div class="bg-card border border-border/80 rounded-2xl overflow-hidden shadow-sm hover:shadow-xl hover:-translate-y-2 transition-all duration-300 group"><div class="h-48 bg-muted relative overflow-hidden"><div class="absolute inset-0 bg-primary/10 mix-blend-multiply"></div><div class="absolute top-4 left-4 bg-primary text-primary-foreground text-[10px] font-bold uppercase tracking-wider px-3 py-1 rounded-full">Hydraulic</div><iconify-icon icon="lucide:droplet" class="absolute bottom-4 right-4 text-primary/20 text-6xl"></iconify-icon></div><div class="p-6 space-y-4"><h3 class="font-heading font-bold text-xl text-primary group-hover:text-secondary transition-colors">Hydraulic Oils</h3><p class="text-sm text-muted-foreground line-clamp-2">Excellent shear stability and anti-wear properties to ensure consistent power transmission across high-pressure machinery.</p><div class="pt-2 border-t border-border/60 flex items-center justify-between"><span class="text-xs text-muted-foreground font-semibold">Excavators & Machinery</span><span class="text-sm font-bold text-secondary flex items-center gap-1">View Details<iconify-icon icon="lucide:chevron-right" class="text-sm"></iconify-icon></span></div></div></div><div class="bg-card border border-border/80 rounded-2xl overflow-hidden shadow-sm hover:shadow-xl hover:-translate-y-2 transition-all duration-300 group"><div class="h-48 bg-muted relative overflow-hidden"><div class="absolute inset-0 bg-primary/10 mix-blend-multiply"></div><div class="absolute top-4 left-4 bg-primary text-primary-foreground text-[10px] font-bold uppercase tracking-wider px-3 py-1 rounded-full">Greases</div><iconify-icon icon="lucide:flame" class="absolute bottom-4 right-4 text-primary/20 text-6xl"></iconify-icon></div><div class="p-6 space-y-4"><h3 class="font-heading font-bold text-xl text-primary group-hover:text-secondary transition-colors">High-Temp Greases</h3><p class="text-sm text-muted-foreground line-clamp-2">Lithium complex and calcium sulfonate greases for extreme load-bearing and water-resistant applications.</p><div class="pt-2 border-t border-border/60 flex items-center justify-between"><span class="text-xs text-muted-foreground font-semibold">Bearings & Heavy Joints</span><span class="text-sm font-bold text-secondary flex items-center gap-1">View Details<iconify-icon icon="lucide:chevron-right" class="text-sm"></iconify-icon></span></div></div></div><div class="bg-card border border-border/80 rounded-2xl overflow-hidden shadow-sm hover:shadow-xl hover:-translate-y-2 transition-all duration-300 group"><div class="h-48 bg-muted relative overflow-hidden"><div class="absolute inset-0 bg-primary/10 mix-blend-multiply"></div><div class="absolute top-4 left-4 bg-primary text-primary-foreground text-[10px] font-bold uppercase tracking-wider px-3 py-1 rounded-full">Specialty</div><iconify-icon icon="lucide:zap" class="absolute bottom-4 right-4 text-primary/20 text-6xl"></iconify-icon></div><div class="p-6 space-y-4"><h3 class="font-heading font-bold text-xl text-primary group-hover:text-secondary transition-colors">Specialty Products</h3><p class="text-sm text-muted-foreground line-clamp-2">Custom-tailored heat transfer fluids, process oils, and food-grade lubricants for highly regulated industries.</p><div class="pt-2 border-t border-border/60 flex items-center justify-between"><span class="text-xs text-muted-foreground font-semibold">Food, Pharma & Tech</span><span class="text-sm font-bold text-secondary flex items-center gap-1">View Details<iconify-icon icon="lucide:chevron-right" class="text-sm"></iconify-icon></span></div></div></div></div></div></section>
+<section class="py-24 bg-muted">
+    <div class="max-w-7xl mx-auto px-6">
+        <div
+            class="flex flex-col md:flex-row md:items-end justify-between mb-12"
+        >
+            <div class="space-y-2">
+                <span
+                    class="text-xs font-bold text-secondary uppercase tracking-widest"
+                    >Our Portfolio</span
+                >
+                <h2
+                    class="text-3xl md:text-4xl font-heading font-extrabold text-primary"
+                >
+                    Engineered For Ultimate Performance
+                </h2>
+            </div>
+            <a
+                href="#"
+                class="mt-4 md:mt-0 px-6 py-3 bg-primary text-primary-foreground rounded-full text-sm font-semibold hover:bg-primary/90 transition-all duration-300 flex items-center gap-2 self-start"
+            >
+                View All Products Catalog
+                <iconify-icon
+                    icon="lucide:arrow-right"
+                    class="text-lg"
+                ></iconify-icon>
+            </a>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <div
+                class="bg-card border border-border/80 rounded-2xl overflow-hidden shadow-sm hover:shadow-xl hover:-translate-y-2 transition-all duration-300 group"
+            >
+                <div class="h-48 bg-muted relative overflow-hidden">
+                    <div
+                        class="absolute inset-0 bg-primary/10 mix-blend-multiply"
+                    ></div>
+                    <div
+                        class="absolute top-4 left-4 bg-primary text-primary-foreground text-[10px] font-bold uppercase tracking-wider px-3 py-1 rounded-full"
+                    >
+                        Automotive
+                    </div>
+                    <iconify-icon
+                        icon="lucide:car"
+                        class="absolute bottom-4 right-4 text-primary/20 text-6xl"
+                    ></iconify-icon>
+                </div>
+                <div class="p-6 space-y-4">
+                    <h3
+                        class="font-heading font-bold text-xl text-primary group-hover:text-secondary transition-colors"
+                    >
+                        Automotive Lubricants
+                    </h3>
+                    <p class="text-sm text-muted-foreground line-clamp-2">
+                        Advanced synthetic and semi-synthetic engine oils
+                        ensuring ultimate wear protection and fuel efficiency.
+                    </p>
+                    <div
+                        class="pt-2 border-t border-border/60 flex items-center justify-between"
+                    >
+                        <span
+                            class="text-xs text-muted-foreground font-semibold"
+                            >Passenger & Commercial</span
+                        >
+                        <span
+                            class="text-sm font-bold text-secondary flex items-center gap-1"
+                        >
+                            View Details
+                            <iconify-icon
+                                icon="lucide:chevron-right"
+                                class="text-sm"
+                            ></iconify-icon>
+                        </span>
+                    </div>
+                </div>
+            </div>
+
+            <div
+                class="bg-card border border-border/80 rounded-2xl overflow-hidden shadow-sm hover:shadow-xl hover:-translate-y-2 transition-all duration-300 group"
+            >
+                <div class="h-48 bg-muted relative overflow-hidden">
+                    <div
+                        class="absolute inset-0 bg-primary/10 mix-blend-multiply"
+                    ></div>
+                    <div
+                        class="absolute top-4 left-4 bg-primary text-primary-foreground text-[10px] font-bold uppercase tracking-wider px-3 py-1 rounded-full"
+                    >
+                        Industrial
+                    </div>
+                    <iconify-icon
+                        icon="lucide:activity"
+                        class="absolute bottom-4 right-4 text-primary/20 text-6xl"
+                    ></iconify-icon>
+                </div>
+                <div class="p-6 space-y-4">
+                    <h3
+                        class="font-heading font-bold text-xl text-primary group-hover:text-secondary transition-colors"
+                    >
+                        Industrial Oils
+                    </h3>
+                    <p class="text-sm text-muted-foreground line-clamp-2">
+                        Heavy-duty gear oils, turbine fluids, and compressor
+                        oils formulated to withstand extreme thermal pressures.
+                    </p>
+                    <div
+                        class="pt-2 border-t border-border/60 flex items-center justify-between"
+                    >
+                        <span
+                            class="text-xs text-muted-foreground font-semibold"
+                            >Manufacturing & Mining</span
+                        >
+                        <span
+                            class="text-sm font-bold text-secondary flex items-center gap-1"
+                        >
+                            View Details
+                            <iconify-icon
+                                icon="lucide:chevron-right"
+                                class="text-sm"
+                            ></iconify-icon>
+                        </span>
+                    </div>
+                </div>
+            </div>
+
+            <div
+                class="bg-card border border-border/80 rounded-2xl overflow-hidden shadow-sm hover:shadow-xl hover:-translate-y-2 transition-all duration-300 group"
+            >
+                <div class="h-48 bg-muted relative overflow-hidden">
+                    <div
+                        class="absolute inset-0 bg-primary/10 mix-blend-multiply"
+                    ></div>
+                    <div
+                        class="absolute top-4 left-4 bg-primary text-primary-foreground text-[10px] font-bold uppercase tracking-wider px-3 py-1 rounded-full"
+                    >
+                        Marine
+                    </div>
+                    <iconify-icon
+                        icon="lucide:anchor"
+                        class="absolute bottom-4 right-4 text-primary/20 text-6xl"
+                    ></iconify-icon>
+                </div>
+                <div class="p-6 space-y-4">
+                    <h3
+                        class="font-heading font-bold text-xl text-primary group-hover:text-secondary transition-colors"
+                    >
+                        Marine Lubricants
+                    </h3>
+                    <p class="text-sm text-muted-foreground line-clamp-2">
+                        High-alkalinity cylinder lubricants and system oils
+                        designed for large-bore marine diesel engines.
+                    </p>
+                    <div
+                        class="pt-2 border-t border-border/60 flex items-center justify-between"
+                    >
+                        <span
+                            class="text-xs text-muted-foreground font-semibold"
+                            >Shipping & Cruise</span
+                        >
+                        <span
+                            class="text-sm font-bold text-secondary flex items-center gap-1"
+                        >
+                            View Details
+                            <iconify-icon
+                                icon="lucide:chevron-right"
+                                class="text-sm"
+                            ></iconify-icon>
+                        </span>
+                    </div>
+                </div>
+            </div>
+
+            <div
+                class="bg-card border border-border/80 rounded-2xl overflow-hidden shadow-sm hover:shadow-xl hover:-translate-y-2 transition-all duration-300 group"
+            >
+                <div class="h-48 bg-muted relative overflow-hidden">
+                    <div
+                        class="absolute inset-0 bg-primary/10 mix-blend-multiply"
+                    ></div>
+                    <div
+                        class="absolute top-4 left-4 bg-primary text-primary-foreground text-[10px] font-bold uppercase tracking-wider px-3 py-1 rounded-full"
+                    >
+                        Hydraulic
+                    </div>
+                    <iconify-icon
+                        icon="lucide:droplet"
+                        class="absolute bottom-4 right-4 text-primary/20 text-6xl"
+                    ></iconify-icon>
+                </div>
+                <div class="p-6 space-y-4">
+                    <h3
+                        class="font-heading font-bold text-xl text-primary group-hover:text-secondary transition-colors"
+                    >
+                        Hydraulic Oils
+                    </h3>
+                    <p class="text-sm text-muted-foreground line-clamp-2">
+                        Excellent shear stability and anti-wear properties to
+                        ensure consistent power transmission across
+                        high-pressure machinery.
+                    </p>
+                    <div
+                        class="pt-2 border-t border-border/60 flex items-center justify-between"
+                    >
+                        <span
+                            class="text-xs text-muted-foreground font-semibold"
+                            >Excavators & Machinery</span
+                        >
+                        <span
+                            class="text-sm font-bold text-secondary flex items-center gap-1"
+                        >
+                            View Details
+                            <iconify-icon
+                                icon="lucide:chevron-right"
+                                class="text-sm"
+                            ></iconify-icon>
+                        </span>
+                    </div>
+                </div>
+            </div>
+
+            <div
+                class="bg-card border border-border/80 rounded-2xl overflow-hidden shadow-sm hover:shadow-xl hover:-translate-y-2 transition-all duration-300 group"
+            >
+                <div class="h-48 bg-muted relative overflow-hidden">
+                    <div
+                        class="absolute inset-0 bg-primary/10 mix-blend-multiply"
+                    ></div>
+                    <div
+                        class="absolute top-4 left-4 bg-primary text-primary-foreground text-[10px] font-bold uppercase tracking-wider px-3 py-1 rounded-full"
+                    >
+                        Greases
+                    </div>
+                    <iconify-icon
+                        icon="lucide:flame"
+                        class="absolute bottom-4 right-4 text-primary/20 text-6xl"
+                    ></iconify-icon>
+                </div>
+                <div class="p-6 space-y-4">
+                    <h3
+                        class="font-heading font-bold text-xl text-primary group-hover:text-secondary transition-colors"
+                    >
+                        High-Temp Greases
+                    </h3>
+                    <p class="text-sm text-muted-foreground line-clamp-2">
+                        Lithium complex and calcium sulfonate greases for
+                        extreme load-bearing and water-resistant applications.
+                    </p>
+                    <div
+                        class="pt-2 border-t border-border/60 flex items-center justify-between"
+                    >
+                        <span
+                            class="text-xs text-muted-foreground font-semibold"
+                            >Bearings & Heavy Joints</span
+                        >
+                        <span
+                            class="text-sm font-bold text-secondary flex items-center gap-1"
+                        >
+                            View Details
+                            <iconify-icon
+                                icon="lucide:chevron-right"
+                                class="text-sm"
+                            ></iconify-icon>
+                        </span>
+                    </div>
+                </div>
+            </div>
+
+            <div
+                class="bg-card border border-border/80 rounded-2xl overflow-hidden shadow-sm hover:shadow-xl hover:-translate-y-2 transition-all duration-300 group"
+            >
+                <div class="h-48 bg-muted relative overflow-hidden">
+                    <div
+                        class="absolute inset-0 bg-primary/10 mix-blend-multiply"
+                    ></div>
+                    <div
+                        class="absolute top-4 left-4 bg-primary text-primary-foreground text-[10px] font-bold uppercase tracking-wider px-3 py-1 rounded-full"
+                    >
+                        Specialty
+                    </div>
+                    <iconify-icon
+                        icon="lucide:zap"
+                        class="absolute bottom-4 right-4 text-primary/20 text-6xl"
+                    ></iconify-icon>
+                </div>
+                <div class="p-6 space-y-4">
+                    <h3
+                        class="font-heading font-bold text-xl text-primary group-hover:text-secondary transition-colors"
+                    >
+                        Specialty Products
+                    </h3>
+                    <p class="text-sm text-muted-foreground line-clamp-2">
+                        Custom-tailored heat transfer fluids, process oils, and
+                        food-grade lubricants for highly regulated industries.
+                    </p>
+                    <div
+                        class="pt-2 border-t border-border/60 flex items-center justify-between"
+                    >
+                        <span
+                            class="text-xs text-muted-foreground font-semibold"
+                            >Food, Pharma & Tech</span
+                        >
+                        <span
+                            class="text-sm font-bold text-secondary flex items-center gap-1"
+                        >
+                            View Details
+                            <iconify-icon
+                                icon="lucide:chevron-right"
+                                class="text-sm"
+                            ></iconify-icon>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

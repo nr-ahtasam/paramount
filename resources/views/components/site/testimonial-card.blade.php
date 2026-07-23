@@ -1,14 +1,12 @@
 @props(['quote' => null, 'name' => null, 'role' => null])
 
 <article class="testimonial">
-    <div class="stars">★★★★★</div>
+    <div class="stars">â˜…â˜…â˜…â˜…â˜…</div>
     @if($quote)
-        <p class="quote">"{{ $quote }}"</p>
-    @endif
-    @if($name)
-        <div class="person">{{ $name }}</div>
-    @endif
-    @if($role)
-        <div class="meta">{{ $role }}</div>
+    <p class="quote">"{{ $quote }}"</p>
+    @endif @if($name)
+    <div class="person">{{ $name }}</div>
+    @endif @if($role)
+    <div class="meta">{{ $role }}</div>
     @endif
 </article>

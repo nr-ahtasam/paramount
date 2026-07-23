@@ -29,11 +29,12 @@
                     </div>
                 </div>
             </div>
-            <a href="#" class="text-sm font-medium text-foreground/80 hover:text-primary transition-colors">About Us</a>
+            <a href="/about" class="text-sm font-medium text-foreground/80 hover:text-primary transition-colors">About Us</a>
             <a href="/sustainability" class="text-sm font-medium text-foreground/80 hover:text-primary transition-colors">Sustainability</a>
-            <a href="#" class="text-sm font-medium text-foreground/80 hover:text-primary transition-colors">Innovation</a>
-            <a href="#" class="text-sm font-medium text-foreground/80 hover:text-primary transition-colors">Global Presence</a>
-            <a href="#" class="text-sm font-medium text-foreground/80 hover:text-primary transition-colors">News</a>
+            <a href="/innovation" class="text-sm font-medium text-foreground/80 hover:text-primary transition-colors">Innovation</a>
+            <a href="/global-presence" class="text-sm font-medium text-foreground/80 hover:text-primary transition-colors">Global Presence</a>
+            <a href="/news-media" class="text-sm font-medium text-foreground/80 hover:text-primary transition-colors">News</a>
+            <a href="/contact" class="text-sm font-medium text-foreground/80 hover:text-primary transition-colors">Contact</a>
         </nav>
         <div class="hidden lg:flex items-center gap-4">
             <button class="p-2.5 rounded-full hover:bg-muted text-foreground/80 transition-colors" aria-label="Search"><iconify-icon icon="lucide:search" class="text-lg"></iconify-icon></button>

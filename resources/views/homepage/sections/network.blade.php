@@ -1,1 +1,129 @@
-<section class="py-24 bg-muted"><div class="max-w-7xl mx-auto px-6"><div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center"><div class="lg:col-span-5 space-y-6"><span class="text-xs font-bold text-secondary uppercase tracking-widest">Global Network</span><h2 class="text-3xl md:text-4xl font-heading font-extrabold text-primary">Our Footprint, Your Success</h2><p class="text-muted-foreground leading-relaxed">With regional headquarters, state-of-the-art blending plants, and a robust distributor network, Paramount provides rapid technical support and product availability worldwide.</p><div class="space-y-4"><div class="flex items-start gap-4"><div class="w-10 h-10 rounded-lg bg-primary text-primary-foreground flex items-center justify-center shrink-0"><iconify-icon icon="lucide:map-pin" class="text-lg"></iconify-icon></div><div><h4 class="font-heading font-bold text-sm text-primary">Strategic Headquarters</h4><p class="text-xs text-muted-foreground">Main hubs in Houston, Rotterdam, and Singapore.</p></div></div><div class="flex items-start gap-4"><div class="w-10 h-10 rounded-lg bg-primary text-primary-foreground flex items-center justify-center shrink-0"><iconify-icon icon="lucide:activity" class="text-lg"></iconify-icon></div><div><h4 class="font-heading font-bold text-sm text-primary">Blending Facilities</h4><p class="text-xs text-muted-foreground">5 high-capacity automated plants across three continents.</p></div></div></div></div><div class="lg:col-span-7 bg-card border border-border rounded-2xl p-8 shadow-xl relative overflow-hidden min-h-[350px] flex flex-col justify-between"><div class="absolute inset-0 bg-primary/5 opacity-40"></div><div class="relative z-10 flex-1 flex items-center justify-center"><div class="w-full max-w-md aspect-video relative border border-dashed border-border rounded-xl bg-muted/60 p-4 flex flex-col justify-center items-center"><iconify-icon icon="lucide:globe" class="text-primary/10 text-9xl absolute"></iconify-icon><div class="absolute top-1/4 left-1/4 flex flex-col items-center"><span class="w-3 h-3 rounded-full bg-secondary animate-ping"></span><span class="text-[10px] font-bold text-primary mt-1 bg-background/95 px-1.5 py-0.5 rounded shadow">Houston HQ</span></div><div class="absolute top-1/3 left-1/2 flex flex-col items-center"><span class="w-3 h-3 rounded-full bg-secondary animate-ping"></span><span class="text-[10px] font-bold text-primary mt-1 bg-background/95 px-1.5 py-0.5 rounded shadow">Rotterdam Plant</span></div><div class="absolute bottom-1/3 right-1/4 flex flex-col items-center"><span class="w-3 h-3 rounded-full bg-secondary animate-ping"></span><span class="text-[10px] font-bold text-primary mt-1 bg-background/95 px-1.5 py-0.5 rounded shadow">Singapore Hub</span></div><p class="text-xs text-muted-foreground text-center relative z-20 max-w-xs mt-12">Clicking map markers displays local contacts, supply lead-times, and regional product catalogs.</p></div></div><div class="relative z-10 pt-4 border-t border-border flex items-center justify-between text-xs text-muted-foreground"><span>Interactive Map Active</span><span class="text-secondary font-semibold">20+ Countries Connected</span></div></div></div></div></section>
+<section class="py-24 bg-muted">
+    <div class="max-w-7xl mx-auto px-6">
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+            <div class="lg:col-span-5 space-y-6">
+                <span
+                    class="text-xs font-bold text-secondary uppercase tracking-widest"
+                    >Global Network</span
+                >
+                <h2
+                    class="text-3xl md:text-4xl font-heading font-extrabold text-primary"
+                >
+                    Our Footprint, Your Success
+                </h2>
+                <p class="text-muted-foreground leading-relaxed">
+                    With regional headquarters, state-of-the-art blending
+                    plants, and a robust distributor network, Paramount provides
+                    rapid technical support and product availability worldwide.
+                </p>
+                <div class="space-y-4">
+                    <div class="flex items-start gap-4">
+                        <div
+                            class="w-10 h-10 rounded-lg bg-primary text-primary-foreground flex items-center justify-center shrink-0"
+                        >
+                            <iconify-icon
+                                icon="lucide:map-pin"
+                                class="text-lg"
+                            ></iconify-icon>
+                        </div>
+                        <div>
+                            <h4
+                                class="font-heading font-bold text-sm text-primary"
+                            >
+                                Strategic Headquarters
+                            </h4>
+                            <p class="text-xs text-muted-foreground">
+                                Main hubs in Houston, Rotterdam, and Singapore.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="flex items-start gap-4">
+                        <div
+                            class="w-10 h-10 rounded-lg bg-primary text-primary-foreground flex items-center justify-center shrink-0"
+                        >
+                            <iconify-icon
+                                icon="lucide:activity"
+                                class="text-lg"
+                            ></iconify-icon>
+                        </div>
+                        <div>
+                            <h4
+                                class="font-heading font-bold text-sm text-primary"
+                            >
+                                Blending Facilities
+                            </h4>
+                            <p class="text-xs text-muted-foreground">
+                                5 high-capacity automated plants across three
+                                continents.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div
+                class="lg:col-span-7 bg-card border border-border rounded-2xl p-8 shadow-xl relative overflow-hidden min-h-[350px] flex flex-col justify-between"
+            >
+                <div class="absolute inset-0 bg-primary/5 opacity-40"></div>
+                <div
+                    class="relative z-10 flex-1 flex items-center justify-center"
+                >
+                    <div
+                        class="w-full max-w-md aspect-video relative border border-dashed border-border rounded-xl bg-muted/60 p-4 flex flex-col justify-center items-center"
+                    >
+                        <iconify-icon
+                            icon="lucide:globe"
+                            class="text-primary/10 text-9xl absolute"
+                        ></iconify-icon>
+                        <div
+                            class="absolute top-1/4 left-1/4 flex flex-col items-center"
+                        >
+                            <span
+                                class="w-3 h-3 rounded-full bg-secondary animate-ping"
+                            ></span
+                            ><span
+                                class="text-[10px] font-bold text-primary mt-1 bg-background/95 px-1.5 py-0.5 rounded shadow"
+                                >Houston HQ</span
+                            >
+                        </div>
+                        <div
+                            class="absolute top-1/3 left-1/2 flex flex-col items-center"
+                        >
+                            <span
+                                class="w-3 h-3 rounded-full bg-secondary animate-ping"
+                            ></span
+                            ><span
+                                class="text-[10px] font-bold text-primary mt-1 bg-background/95 px-1.5 py-0.5 rounded shadow"
+                                >Rotterdam Plant</span
+                            >
+                        </div>
+                        <div
+                            class="absolute bottom-1/3 right-1/4 flex flex-col items-center"
+                        >
+                            <span
+                                class="w-3 h-3 rounded-full bg-secondary animate-ping"
+                            ></span
+                            ><span
+                                class="text-[10px] font-bold text-primary mt-1 bg-background/95 px-1.5 py-0.5 rounded shadow"
+                                >Singapore Hub</span
+                            >
+                        </div>
+                        <p
+                            class="text-xs text-muted-foreground text-center relative z-20 max-w-xs mt-12"
+                        >
+                            Clicking map markers displays local contacts, supply
+                            lead-times, and regional product catalogs.
+                        </p>
+                    </div>
+                </div>
+                <div
+                    class="relative z-10 pt-4 border-t border-border flex items-center justify-between text-xs text-muted-foreground"
+                >
+                    <span>Interactive Map Active</span
+                    ><span class="text-secondary font-semibold"
+                        >20+ Countries Connected</span
+                    >
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

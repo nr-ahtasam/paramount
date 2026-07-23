@@ -1,3 +1,30 @@
 <section class="py-20 bg-muted border-t border-border">
-    <div class="max-w-4xl mx-auto px-6 text-center space-y-6"><iconify-icon icon="lucide:message-circle" class="text-secondary text-5xl"></iconify-icon><h2 class="text-2xl md:text-3xl font-heading font-extrabold text-primary">Need a Custom Lubricant Formulation or Bulk Order?</h2><p class="text-sm text-muted-foreground max-w-xl mx-auto leading-relaxed">Our engineers and R&amp;D laboratory are ready to assist you. Share your specific temperature range, machine load, and industry compliance requirements.</p><div class="pt-4"><a href="#" class="inline-flex items-center gap-2 px-8 py-3.5 bg-secondary text-secondary-foreground font-semibold rounded-full hover:bg-secondary/90 transition-all shadow-md shadow-secondary/10">Request a Custom Consultation<iconify-icon icon="lucide:arrow-right" class="text-sm"></iconify-icon></a></div></div>
+    <div class="max-w-4xl mx-auto px-6 text-center space-y-6">
+        <iconify-icon
+            icon="lucide:message-circle"
+            class="text-secondary text-5xl"
+        ></iconify-icon>
+        <h2
+            class="text-2xl md:text-3xl font-heading font-extrabold text-primary"
+        >
+            Need a Custom Lubricant Formulation or Bulk Order?
+        </h2>
+        <p
+            class="text-sm text-muted-foreground max-w-xl mx-auto leading-relaxed"
+        >
+            Our engineers and R&amp;D laboratory are ready to assist you. Share
+            your specific temperature range, machine load, and industry
+            compliance requirements.
+        </p>
+        <div class="pt-4">
+            <a
+                href="#"
+                class="inline-flex items-center gap-2 px-8 py-3.5 bg-secondary text-secondary-foreground font-semibold rounded-full hover:bg-secondary/90 transition-all shadow-md shadow-secondary/10"
+                >Request a Custom Consultation<iconify-icon
+                    icon="lucide:arrow-right"
+                    class="text-sm"
+                ></iconify-icon
+            ></a>
+        </div>
+    </div>
 </section>

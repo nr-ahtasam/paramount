@@ -13,3 +13,23 @@ Route::get('/products', function () {
 Route::get('/sustainability', function () {
     return view('sustainability.index');
 });
+
+Route::get('/about', function () {
+    return view('about.index');
+});
+
+Route::get('/innovation', function () {
+    return view('innovation.index');
+});
+
+Route::get('/global-presence', function () {
+    return view('global-presence.index');
+});
+
+Route::get('/news-media', function () {
+    return view('news-media.index');
+});
+
+Route::get('/contact', function () {
+    return view('contact.index');
+});
